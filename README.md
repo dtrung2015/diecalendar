@@ -1,2 +1,0 @@
-# diecalendar
-lịch đám giỗ
