@@ -2,7 +2,7 @@
 lich am
 
 ######## Attributes of sensor #########
-[ddMM]AL:	Toàn bộ ngày âm lịch trong năm  (new update)
+[ddMM]AL:	Toàn bộ ngày âm lịch trong năm 
 lichAm:	        Ngày lịch âm
 NgayRam:	Ngày Rằm lịch âm
 MungMot:	Ngày mùng một lịch âm
